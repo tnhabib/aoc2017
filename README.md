@@ -9,12 +9,12 @@ The organization of this repo will be as follows
      <code files>
 
 So, If I am ambitious enough to do days in multiple languages it will probably look something like this:
-  day1/
-    go/
-      .. some code
-    rust/
-      ... code
-    haskell/ 
-       ... code
+  day1/  
+    go/  
+      .. some code  
+    rust/  
+      ... code  
+    haskell/  
+       ... code  
 
 
